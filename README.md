@@ -21,4 +21,8 @@ Excel/CSV – Data storage and integration
 # 🎯 Impact & Use Cases
 This dashboard helps business analysts, sales managers, and operations teams optimize outlet performance, improve inventory decisions, and enhance customer experience.
 
+# 🔹 Built using: Power BI 
+
+# OUTPUT
+
 ![image](https://github.com/user-attachments/assets/ce5226ff-4ff2-41cf-a30c-af0d5c9e9c43)
